@@ -1,5 +1,5 @@
 <template>
-  <h2>국제현황</h2>
+  <h2>국제현황 22</h2>
 </template>
 
 <script>
