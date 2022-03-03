@@ -9,8 +9,11 @@
   },
   "dependencies": {
     "@element-plus/icons": "^0.0.11",
+    "axios": "^0.26.0",
+    "chart.js": "^3.7.1",
     "core-js": "^3.6.5",
     "element-plus": "^2.0.2",
+    "moment": "^2.29.1",
     "vue": "^3.0.0"
   },
   "devDependencies": {
